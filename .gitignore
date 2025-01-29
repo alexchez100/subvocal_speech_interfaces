@@ -6,6 +6,7 @@
 !exp1_front.py
 !words.txt
 !.gitignore
+!README.md
 
 # Игнорировать все папки
 */
