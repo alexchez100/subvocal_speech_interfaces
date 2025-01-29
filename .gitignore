@@ -1,7 +1,16 @@
-# Virtual Environment
-venv/
-__pycache__/
-*.pyc
+# Игнорировать все файлы
+*
+*/*
 
-# Output files
+# Кроме этих конкретных файлов
+!exp1_front.py
+!words.txt
+!.gitignore
+
+# Игнорировать все папки
+*/
+
+# Особенно игнорировать эти папки и их содержимое
 res/
+__pycache__/
+venv/
