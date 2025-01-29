@@ -2,6 +2,8 @@
 
 This application is designed for visual word presentation with light sequence indicators. It's part of a subvocal speech interface research project.
 
+![Application Interface](images/visual_word.png)
+
 ## Features
 - Sequential light activation with 6 indicator lights
 - Random word display from a predefined word list
@@ -20,8 +22,6 @@ This application is designed for visual word presentation with light sequence in
 - Word button: Starts new sequence
 - Skip button: Marks last trial as skipped (status = 0)
 - Light indicators: Gray → Green → Red sequence
-
-😊
 
 ## Usage
 1. Run the program

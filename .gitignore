@@ -8,8 +8,15 @@
 !.gitignore
 !README.md
 
-# Игнорировать все папки
+# Разрешить папку images и её содержимое
+!images/
+!images/*.png
+!images/*.jpg
+!images/*.jpeg
+
+# Игнорировать все папки кроме images
 */
+!images/
 
 # Особенно игнорировать эти папки и их содержимое
 res/
